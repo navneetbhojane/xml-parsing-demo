@@ -1,0 +1,20 @@
+<?xml version = "1.0"?>
+<root>
+   <step id = "1">
+		<job id = "1">
+			<task id = "1">
+				<![CDATA[ SEARCH_STRING_1(value_1, value_2, value_3, value_4, value_5) MOV(value_1, value_2) ]]>
+			</task>
+		</job>
+		<job id = "2">
+			<task id = "1">
+				<![CDATA[ SEARCH_STRING_2(value_1, value_2, value_3, value_4, value_5) MOV(value_1, value_2) ]]>
+			</task>
+		</job>
+		<job id = "3">
+			<task id = "1">
+				<![CDATA[ SEARCH_STRING_1(value_6, value_7, value_8, value_9, value_10) ]]>
+			</task>
+		</job>		
+   </step>
+</root>
